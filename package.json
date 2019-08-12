@@ -1,0 +1,23 @@
+{
+  "name": "edsaio",
+  "description": "Homepage of EDSA",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "gatsby"
+  ],
+  "dependencies": {
+    "@geocine/gatsby-theme-organization": "^1.0.7",
+    "gatsby": "^2.13.58",
+    "gh-pages": "^2.1.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "deploy": "gatsby build && cp ./src/CNAME public/ && gh-pages -d public"
+  }
+}

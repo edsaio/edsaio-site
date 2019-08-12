@@ -1,6 +1,6 @@
 # Homepage of edsa.io
 
-This site uses the gatsy theme [@geocine/gatsby-theme-organization](https://github.com/geocine/gatsby-theme-organization) 
+This site uses the gatsby theme [@geocine/gatsby-theme-organization](https://github.com/geocine/gatsby-theme-organization) 
 
 ## Usage
 

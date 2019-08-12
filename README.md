@@ -92,3 +92,9 @@ This is an example content of your `projects.yml` file
   description: Our github solely dedicated for open source Golang software
 
 ```
+
+### How to deploy site to Github Pages
+
+```
+yarn run deploy
+```

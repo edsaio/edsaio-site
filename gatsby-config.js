@@ -5,7 +5,7 @@ module.exports = {
       options: {
         contentPath: 'data',
         organization: 'EDSA',
-        url: 'http://edsa.io/',
+        url: 'https://github.com/edsaio',
         title: 'Empowering Developers of Software Applications',
         iconName: 'icon.png'
       }
